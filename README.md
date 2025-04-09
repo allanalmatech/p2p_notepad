@@ -46,7 +46,7 @@ P2P Notepad is a lightweight, real-time collaborative text editor designed to wo
 
 1. **Clone the repo** or download the `.zip`:
 ```bash
-git clone https://github.com/your-repo/p2p-notepad.git
+git clone https://github.com/allanalmatech/p2p-notepad.git
 cd p2p-notepad
 ```
 
