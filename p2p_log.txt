@@ -1,0 +1,158 @@
+[2025-04-29 17:12:36] [!] Backup fetch error: timed out
+[2025-04-29 17:12:50] Backoff: failed to connect to 172.16.13.231 - retrying in 1s
+[2025-04-29 17:12:50] Backoff: failed to connect to 172.16.13.236 - retrying in 1s
+[2025-04-29 17:12:50] Backoff: failed to connect to 172.16.13.232 - retrying in 1s
+[2025-04-29 17:13:12] Backoff: failed to connect to 172.16.13.232 - retrying in 2s
+[2025-04-29 17:13:12] Backoff: failed to connect to 172.16.13.236 - retrying in 2s
+[2025-04-29 17:13:12] Backoff: failed to connect to 172.16.13.231 - retrying in 2s
+[2025-04-29 17:13:35] Backoff: failed to connect to 172.16.13.232 - retrying in 4s
+[2025-04-29 17:13:35] Backoff: failed to connect to 172.16.13.231 - retrying in 4s
+[2025-04-29 17:14:00] Backoff: failed to connect to 172.16.13.236 - retrying in 8s
+[2025-04-29 17:14:00] Backoff: failed to connect to 172.16.13.232 - retrying in 8s
+[2025-04-29 17:14:00] Backoff: failed to connect to 172.16.13.231 - retrying in 8s
+[2025-04-29 17:14:29] Backoff: failed to connect to 172.16.13.236 - retrying in 16s
+[2025-04-29 17:14:29] Backoff: failed to connect to 172.16.13.231 - retrying in 16s
+[2025-04-29 17:14:29] Backoff: failed to connect to 172.16.13.232 - retrying in 16s
+[2025-04-29 17:15:06] Backoff: failed to connect to 172.16.13.236 - retrying in 32s
+[2025-04-29 17:15:06] Backoff: failed to connect to 172.16.13.231 - retrying in 32s
+[2025-04-29 17:15:06] Backoff: failed to connect to 172.16.13.232 - retrying in 32s
+[2025-04-29 17:15:59] Backoff: failed to connect to 172.16.13.236 - retrying in 60s
+[2025-04-29 17:15:59] Backoff: failed to connect to 172.16.13.232 - retrying in 60s
+[2025-04-29 17:15:59] Backoff: failed to connect to 172.16.13.231 - retrying in 60s
+[2025-04-29 17:17:20] Backoff: failed to connect to 172.16.13.236 - retrying in 60s
+[2025-04-29 17:17:20] Backoff: failed to connect to 172.16.13.232 - retrying in 60s
+[2025-04-29 17:17:20] Backoff: failed to connect to 172.16.13.231 - retrying in 60s
+[2025-04-29 17:18:41] Backoff: failed to connect to 172.16.13.236 - retrying in 60s
+[2025-04-29 17:18:41] Backoff: failed to connect to 172.16.13.231 - retrying in 60s
+[2025-04-29 17:18:41] Backoff: failed to connect to 172.16.13.232 - retrying in 60s
+[2025-04-29 17:20:02] Backoff: failed to connect to 172.16.13.236 - retrying in 60s
+[2025-04-29 17:20:02] Backoff: failed to connect to 172.16.13.232 - retrying in 60s
+[2025-04-29 17:20:02] Backoff: failed to connect to 172.16.13.231 - retrying in 60s
+[2025-04-29 17:21:23] Backoff: failed to connect to 172.16.13.236 - retrying in 60s
+[2025-04-29 17:21:23] Backoff: failed to connect to 172.16.13.232 - retrying in 60s
+[2025-04-29 17:21:23] Backoff: failed to connect to 172.16.13.231 - retrying in 60s
+[2025-04-29 17:22:44] Backoff: failed to connect to 172.16.13.236 - retrying in 60s
+[2025-04-29 17:22:44] Backoff: failed to connect to 172.16.13.232 - retrying in 60s
+[2025-04-29 17:22:44] Backoff: failed to connect to 172.16.13.231 - retrying in 60s
+[2025-04-29 17:24:05] Backoff: failed to connect to 172.16.13.236 - retrying in 60s
+[2025-04-29 17:24:06] Backoff: failed to connect to 172.16.13.232 - retrying in 60s
+[2025-04-29 17:24:06] Backoff: failed to connect to 172.16.13.231 - retrying in 60s
+[2025-04-29 17:25:27] Backoff: failed to connect to 172.16.13.232 - retrying in 60s
+[2025-04-29 17:25:27] Backoff: failed to connect to 172.16.13.236 - retrying in 60s
+[2025-04-29 17:25:27] Backoff: failed to connect to 172.16.13.231 - retrying in 60s
+[2025-04-29 17:26:48] Backoff: failed to connect to 172.16.13.231 - retrying in 60s
+[2025-04-29 17:26:48] Backoff: failed to connect to 172.16.13.232 - retrying in 60s
+[2025-04-29 17:26:48] Backoff: failed to connect to 172.16.13.236 - retrying in 60s
+[2025-04-29 17:28:09] Backoff: failed to connect to 172.16.13.232 - retrying in 60s
+[2025-04-29 17:28:09] Backoff: failed to connect to 172.16.13.231 - retrying in 60s
+[2025-04-29 17:29:30] Backoff: failed to connect to 172.16.13.236 - retrying in 60s
+[2025-04-29 17:29:30] Backoff: failed to connect to 172.16.13.231 - retrying in 60s
+[2025-04-29 17:30:51] Backoff: failed to connect to 172.16.13.236 - retrying in 60s
+[2025-04-29 17:30:51] Backoff: failed to connect to 172.16.13.232 - retrying in 60s
+[2025-04-29 17:30:51] Backoff: failed to connect to 172.16.13.231 - retrying in 60s
+[2025-04-29 17:32:12] Backoff: failed to connect to 172.16.13.232 - retrying in 60s
+[2025-04-29 17:32:12] Backoff: failed to connect to 172.16.13.236 - retrying in 60s
+[2025-04-29 17:32:12] Backoff: failed to connect to 172.16.13.231 - retrying in 60s
+[2025-04-29 17:33:33] Backoff: failed to connect to 172.16.13.236 - retrying in 60s
+[2025-04-29 17:33:33] Backoff: failed to connect to 172.16.13.232 - retrying in 60s
+[2025-04-29 17:33:33] Backoff: failed to connect to 172.16.13.231 - retrying in 60s
+[2025-04-29 17:34:54] Backoff: failed to connect to 172.16.13.236 - retrying in 60s
+[2025-04-29 17:34:54] Backoff: failed to connect to 172.16.13.232 - retrying in 60s
+[2025-04-29 17:34:54] Backoff: failed to connect to 172.16.13.231 - retrying in 60s
+[2025-04-29 17:36:15] Backoff: failed to connect to 172.16.13.236 - retrying in 60s
+[2025-04-29 17:36:15] Backoff: failed to connect to 172.16.13.232 - retrying in 60s
+[2025-04-29 17:36:15] Backoff: failed to connect to 172.16.13.231 - retrying in 60s
+[2025-04-29 17:37:36] Backoff: failed to connect to 172.16.13.236 - retrying in 60s
+[2025-04-29 17:37:36] Backoff: failed to connect to 172.16.13.232 - retrying in 60s
+[2025-04-29 17:37:36] Backoff: failed to connect to 172.16.13.231 - retrying in 60s
+[2025-04-29 17:38:57] Backoff: failed to connect to 172.16.13.236 - retrying in 60s
+[2025-04-29 17:38:57] Backoff: failed to connect to 172.16.13.232 - retrying in 60s
+[2025-04-29 17:38:57] Backoff: failed to connect to 172.16.13.231 - retrying in 60s
+[2025-04-29 17:40:18] Backoff: failed to connect to 172.16.13.236 - retrying in 60s
+[2025-04-29 17:40:18] Backoff: failed to connect to 172.16.13.232 - retrying in 60s
+[2025-04-29 17:40:18] Backoff: failed to connect to 172.16.13.231 - retrying in 60s
+[2025-04-29 17:41:39] Backoff: failed to connect to 172.16.13.236 - retrying in 60s
+[2025-04-29 17:41:39] Backoff: failed to connect to 172.16.13.232 - retrying in 60s
+[2025-04-29 17:41:39] Backoff: failed to connect to 172.16.13.231 - retrying in 60s
+[2025-04-29 17:43:00] Backoff: failed to connect to 172.16.13.236 - retrying in 60s
+[2025-04-29 17:43:00] Backoff: failed to connect to 172.16.13.232 - retrying in 60s
+[2025-04-29 17:43:00] Backoff: failed to connect to 172.16.13.231 - retrying in 60s
+[2025-04-29 17:44:21] Backoff: failed to connect to 172.16.13.236 - retrying in 60s
+[2025-04-29 17:44:21] Backoff: failed to connect to 172.16.13.232 - retrying in 60s
+[2025-04-29 17:44:21] Backoff: failed to connect to 172.16.13.231 - retrying in 60s
+[2025-04-29 17:45:42] Backoff: failed to connect to 172.16.13.236 - retrying in 60s
+[2025-04-29 17:45:42] Backoff: failed to connect to 172.16.13.232 - retrying in 60s
+[2025-04-29 17:45:42] Backoff: failed to connect to 172.16.13.231 - retrying in 60s
+[2025-04-29 17:47:03] Backoff: failed to connect to 172.16.13.236 - retrying in 60s
+[2025-04-29 17:47:03] Backoff: failed to connect to 172.16.13.232 - retrying in 60s
+[2025-04-29 17:47:03] Backoff: failed to connect to 172.16.13.231 - retrying in 60s
+[2025-04-29 17:48:24] Backoff: failed to connect to 172.16.13.236 - retrying in 60s
+[2025-04-29 17:48:24] Backoff: failed to connect to 172.16.13.232 - retrying in 60s
+[2025-04-29 17:48:24] Backoff: failed to connect to 172.16.13.231 - retrying in 60s
+[2025-04-29 17:49:45] Backoff: failed to connect to 172.16.13.236 - retrying in 60s
+[2025-04-29 17:49:45] Backoff: failed to connect to 172.16.13.232 - retrying in 60s
+[2025-04-29 17:49:45] Backoff: failed to connect to 172.16.13.231 - retrying in 60s
+[2025-04-29 17:51:06] Backoff: failed to connect to 172.16.13.236 - retrying in 60s
+[2025-04-29 17:51:06] Backoff: failed to connect to 172.16.13.232 - retrying in 60s
+[2025-04-29 17:51:07] Backoff: failed to connect to 172.16.13.231 - retrying in 60s
+[2025-04-29 17:51:57] [!] Peer error: [WinError 10054] An existing connection was forcibly closed by the remote host
+[2025-04-29 17:51:57] [!] Peer error: [WinError 10054] An existing connection was forcibly closed by the remote host
+[2025-04-29 17:51:57] [!] Peer error: [WinError 10054] An existing connection was forcibly closed by the remote host
+[2025-04-29 17:52:18] Backoff: failed to connect to 192.168.1.73 - retrying in 1s
+[2025-04-29 17:52:18] Backoff: failed to connect to 192.168.1.73 - retrying in 1s
+[2025-04-29 17:52:18] Backoff: failed to connect to 192.168.1.73 - retrying in 1s
+[2025-04-29 17:52:18] Backoff: failed to connect to 192.168.1.73 - retrying in 1s
+[2025-04-29 17:52:27] Backoff: failed to connect to 172.16.13.236 - retrying in 60s
+[2025-04-29 17:52:27] Backoff: failed to connect to 172.16.13.232 - retrying in 60s
+[2025-04-29 17:52:28] Backoff: failed to connect to 172.16.13.231 - retrying in 60s
+[2025-04-29 17:52:40] Backoff: failed to connect to 192.168.1.73 - retrying in 2s
+[2025-04-29 17:52:40] Backoff: failed to connect to 192.168.1.73 - retrying in 2s
+[2025-04-29 17:52:40] Backoff: failed to connect to 192.168.1.73 - retrying in 2s
+[2025-04-29 17:52:40] Backoff: failed to connect to 192.168.1.73 - retrying in 2s
+[2025-04-29 17:53:03] Backoff: failed to connect to 192.168.1.73 - retrying in 4s
+[2025-04-29 17:53:03] Backoff: failed to connect to 192.168.1.73 - retrying in 4s
+[2025-04-29 17:53:03] [!] Peer error: [WinError 10054] An existing connection was forcibly closed by the remote host
+[2025-04-29 17:53:03] [!] Peer error: [WinError 10054] An existing connection was forcibly closed by the remote host
+[2025-04-29 17:54:08] Backoff: failed to connect to 172.16.13.232 - retrying in 1s
+[2025-04-29 17:54:08] Backoff: failed to connect to 172.16.13.231 - retrying in 1s
+[2025-04-29 17:54:08] Backoff: failed to connect to 172.16.13.236 - retrying in 1s
+[2025-04-29 17:54:11] [!] Peer error: [WinError 10054] An existing connection was forcibly closed by the remote host
+[2025-04-29 17:54:30] Backoff: failed to connect to 172.16.13.231 - retrying in 2s
+[2025-04-29 17:54:30] Backoff: failed to connect to 172.16.13.236 - retrying in 2s
+[2025-04-29 17:54:30] Backoff: failed to connect to 172.16.13.232 - retrying in 2s
+[2025-04-29 17:54:32] Backoff: failed to connect to 192.168.1.73 - retrying in 1s
+[2025-04-29 17:54:53] Backoff: failed to connect to 172.16.13.231 - retrying in 4s
+[2025-04-29 17:54:53] Backoff: failed to connect to 172.16.13.236 - retrying in 4s
+[2025-04-29 17:54:53] Backoff: failed to connect to 172.16.13.232 - retrying in 4s
+[2025-04-29 17:55:10] [!] Peer error: [WinError 10054] An existing connection was forcibly closed by the remote host
+[2025-04-29 17:55:18] Backoff: failed to connect to 172.16.13.231 - retrying in 8s
+[2025-04-29 17:55:18] Backoff: failed to connect to 172.16.13.232 - retrying in 8s
+[2025-04-29 17:55:18] Backoff: failed to connect to 172.16.13.236 - retrying in 8s
+[2025-04-29 17:55:57] Backoff: failed to connect to 172.16.13.231 - retrying in 1s
+[2025-04-29 17:55:57] Backoff: failed to connect to 172.16.13.236 - retrying in 1s
+[2025-04-29 17:55:57] Backoff: failed to connect to 172.16.13.232 - retrying in 1s
+[2025-04-29 17:56:19] Backoff: failed to connect to 172.16.13.231 - retrying in 2s
+[2025-04-29 17:56:19] Backoff: failed to connect to 172.16.13.236 - retrying in 2s
+[2025-04-29 17:56:19] Backoff: failed to connect to 172.16.13.232 - retrying in 2s
+[2025-04-29 17:56:36] [!] Backup fetch error: timed out
+[2025-04-29 17:56:36] [!] Backup fetch error: timed out
+[2025-04-29 17:56:36] [!] Backup fetch error: timed out
+[2025-04-29 17:56:42] Backoff: failed to connect to 172.16.13.236 - retrying in 4s
+[2025-04-29 17:56:42] Backoff: failed to connect to 172.16.13.231 - retrying in 4s
+[2025-04-29 17:56:42] Backoff: failed to connect to 172.16.13.232 - retrying in 4s
+[2025-04-29 17:57:07] Backoff: failed to connect to 172.16.13.231 - retrying in 8s
+[2025-04-29 17:57:07] Backoff: failed to connect to 172.16.13.232 - retrying in 8s
+[2025-04-29 17:57:18] [!] Backup fetch error: timed out
+[2025-04-29 17:57:18] [!] Backup fetch error: timed out
+[2025-04-29 17:57:36] Backoff: failed to connect to 172.16.13.236 - retrying in 16s
+[2025-04-29 17:57:36] Backoff: failed to connect to 172.16.13.231 - retrying in 16s
+[2025-04-29 17:57:36] Backoff: failed to connect to 172.16.13.232 - retrying in 16s
+[2025-04-29 17:58:13] Backoff: failed to connect to 172.16.13.236 - retrying in 32s
+[2025-04-29 17:58:13] Backoff: failed to connect to 172.16.13.231 - retrying in 32s
+[2025-04-29 17:58:13] Backoff: failed to connect to 172.16.13.232 - retrying in 32s
+[2025-04-29 17:58:23] [!] Peer error: [WinError 10054] An existing connection was forcibly closed by the remote host
+[2025-04-29 17:58:23] [!] Peer error: [WinError 10054] An existing connection was forcibly closed by the remote host
+[2025-04-29 17:58:23] [!] Peer error: [WinError 10054] An existing connection was forcibly closed by the remote host
+[2025-04-29 17:58:44] Backoff: failed to connect to 192.168.1.73 - retrying in 1s
+[2025-04-29 17:58:44] Backoff: failed to connect to 192.168.1.73 - retrying in 1s
+[2025-04-29 17:58:44] Backoff: failed to connect to 192.168.1.73 - retrying in 1s
