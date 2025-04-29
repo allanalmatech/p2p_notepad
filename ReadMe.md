@@ -100,10 +100,10 @@ MIT License — free to use, modify, and distribute.
 
 ## 🙌 Credits
 
-**Ainamaani Allan Mwesigye**
-**Ignatius Tindyebwa**
-**Nuwahereza Alphat**
-**Kihembo Daniel**
-**Ahebwa Faith**
-**Nyakato Sheillah**
+**Ainamaani Allan Mwesigye**, 
+**Ignatius Tindyebwa**, 
+**Nuwahereza Alphat**, 
+**Kihembo Daniel**, 
+**Ahebwa Faith**, 
+**Nyakato Sheillah**, 
 2025
